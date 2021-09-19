@@ -1,0 +1,6 @@
+name: PingAll
+version: '${project.version}'
+main: me.koutachan.pingall.PingAll
+commands:
+  pingall:
+    permission: pingall.op
